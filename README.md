@@ -108,7 +108,7 @@ Develop an intelligent web application that assists students and researchers in 
 - **Use Existing APIs**: Fetch papers directly from arXiv API.
 
 ## Directory structure:
-
+```
 ScholarMind/  
 │
 ├── backend/                  # Backend (Node.js/Express)
@@ -140,3 +140,4 @@ ScholarMind/
 ├── README.md                 # Project explanation
 ├── .gitignore                # Files/folders to ignore in Git
 └── LICENSE                   # Optional: Add a license file
+

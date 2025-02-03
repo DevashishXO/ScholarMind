@@ -137,6 +137,6 @@ ScholarMind/
 │   ├── requirements.txt      # Python dependencies
 │   └── data/                 # Folder for storing papers, embeddings, etc.
 │
-├── README.md                 # Project explanation (your txt.md)
+├── README.md                 # Project explanation
 ├── .gitignore                # Files/folders to ignore in Git
 └── LICENSE                   # Optional: Add a license file

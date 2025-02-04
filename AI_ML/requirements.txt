@@ -1,0 +1,13 @@
+transformers
+
+langchain
+
+faiss-cpu
+
+sentence-transformers
+
+openai
+
+arxiv
+
+flask

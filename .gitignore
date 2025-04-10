@@ -1,0 +1,11 @@
+# Python
+ai_ml/__pycache__/
+ai_ml/data/
+*.pyc
+
+# Node.js
+node_modules/
+.env
+
+# General
+.DS_Store
